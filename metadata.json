@@ -1,0 +1,6 @@
+{
+  "name": "LinkPulse — Advanced Link Management & Analytics",
+  "description": "Enterprise-grade URL management suite with real redirects, expiration control, click limits, visitor analytics, workspaces, folders, campaigns, and QR studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
