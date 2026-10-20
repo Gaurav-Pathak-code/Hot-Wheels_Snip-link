@@ -40,5 +40,3 @@ npm install
 ```
 Set `DATABASE_URL` in a local `.env` file, then run the scripts in `package.json`. Never commit secrets; keep `.env` in `.gitignore`.
 
-## 👥 Team Rules
-Keep the repository public and use the required `teamname-projectname` format. Commit with meaningful messages, and ensure each team member uses their own GitHub account.
