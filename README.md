@@ -2,7 +2,7 @@
 
 **Shorten links · Create QR codes · Track clicks**
 
-[🌐 Live Demo](https://hot-wheels-snip-link.vercel.app/)
+> **Project status:** Hackathon project completed. The live demo has been taken offline. Source code and screenshots remain available here.
 
 ## 💡 Problem & Solution
 
